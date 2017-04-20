@@ -10,4 +10,8 @@ spring:
             server:
                 git:
                     uri:https://github.com/Rabindra1980/microservicequickstarter/tree/microservice-config
+                    # While in development mode, you can configure the config server to pick up configuration files from
+# the file system
+          
+#           uri: file://Users/rabindra/Documents/giri/Trainings/Code Samples/Enterprise Java/Micro Services/sample-config
                searchPaths:
