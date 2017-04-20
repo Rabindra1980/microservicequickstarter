@@ -9,5 +9,5 @@ spring:
         config:
             server:
                 git:
-                    uri: https://github.com/Rabindra1980/microservicequickstarter
+                    uri:https://github.com/Rabindra1980/microservicequickstarter/tree/microservice-config
                searchPaths:
