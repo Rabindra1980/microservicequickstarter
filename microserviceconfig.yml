@@ -9,5 +9,5 @@ spring:
         config:
             server:
                 git:
-                    uri: https://github.com/fernandoabcampos/microservices-config.git
-                    searchPaths: MASTER
+                    uri: https://github.com/Rabindra1980/micro-services-config.git
+               searchPaths: MASTER
